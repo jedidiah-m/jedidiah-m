@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently studying for a Master's in Embedded Electronics Engineering.
+- 🌱 I’m currently learning to develop digital hardware with VHDL, EDA tools such as Cadence Virtuoso, EasyEDA, and other schematic design tools.
+- ⚡ I'm interested in computer architecture and SOC design and would be excited to collaborate on projects in the space.
