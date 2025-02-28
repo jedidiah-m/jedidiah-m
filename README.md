@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently studying for a Master's in Embedded Electronics Engineering.
-- 🌱 I’m currently learning to develop digital hardware with VHDL, EDA tools such as Cadence Virtuoso, EasyEDA, and other schematic design tools.
-- ⚡ I'm interested in computer architecture and SOC design and would be excited to collaborate on projects in the space.
+- 🌱 I’m currently learning to develop digital hardware with VHDL [learning verilog], EDA tools such as Cadence [Virtuoso, Genus, Innovus], EasyEDA, and other schematic design tools.
+- ⚡ I'm interested in computer architecture as well as ASIC and SOC design, and I would be excited to collaborate on projects in the space.
