@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently studying for a Master's in Embedded Electronics Engineering.
-- 🌱 I’m currently learning to develop digital hardware with VHDL [learning verilog], EDA tools such as Cadence [Virtuoso, Genus, Innovus], EasyEDA, and other schematic design tools.
-- ⚡ I'm interested in computer architecture as well as ASIC and SOC design, and I would be excited to collaborate on projects in the space.
+- 🔭 I’m currently studying for a Master's in Embedded Electronics Engineering at Lund University.
+- 🌱 I’m currently learning to develop digital hardware with VHDL, Verilog, System Verilog EDA tools such as Cadence [Virtuoso, Genus, Innovus], EasyEDA, and other schematic design tools such as Altium.
+- ⚡ I'm interested in Semi Custom Digital IC Design, RTL in topics such as computer architecture, ASIC and SOC design, and Cryptography and I would be excited to collaborate on projects in the space.
+- 🧑‍🎓 I expect to graduate in June 2026. I am open to working full-time in Sweden or within Europe to build my expertise in this domain of Electronics Engineering.
